@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://color-site.org/article/</loc>
+    <loc>http://example.org/article/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://color-site.org/categories/</loc>
+    <loc>http://example.org/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="lv"
-                href="http://color-site.org/lv/categories/"
+                href="http://example.org/lv/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://color-site.org/fr/categories/"
+                href="http://example.org/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://color-site.org/categories/"
+                href="http://example.org/categories/"
                 />
   </url><url>
-    <loc>http://color-site.org/tags/</loc>
+    <loc>http://example.org/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="lv"
-                href="http://color-site.org/lv/tags/"
+                href="http://example.org/lv/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://color-site.org/fr/tags/"
+                href="http://example.org/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://color-site.org/tags/"
+                href="http://example.org/tags/"
                 />
   </url><url>
-    <loc>http://color-site.org/</loc>
+    <loc>http://example.org/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="lv"
-                href="http://color-site.org/lv/"
+                href="http://example.org/lv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://color-site.org/fr/"
+                href="http://example.org/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://color-site.org/"
+                href="http://example.org/"
                 />
   </url>
 </urlset>

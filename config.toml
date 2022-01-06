@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://compassionate-rosalind-ba0065.netlify.app/'
 languageCode = 'en-us'
 title = 'The Color Site'
 #homeSubtitle = "where you can find all the hexa color of the Internet !"
