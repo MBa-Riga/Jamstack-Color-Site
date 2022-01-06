@@ -1,4 +1,4 @@
-baseURL = 'http://color-site.org/'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'The Color Site'
 #homeSubtitle = "where you can find all the hexa color of the Internet !"
