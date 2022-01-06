@@ -1,3 +1,61 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://color-site.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'The Color Site'
+#homeSubtitle = "where you can find all the hexa color of the Internet !"
+description = "My new homepage"
+theme = "paper"
+
+#metadata for doc head
+#description = "My new homepage"
+#keywords = "homepage, blog, mood" #not sure
+#images = [""]
+
+#"disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # add disqus comments
+
+# Set disableReadOtherPosts to true in order to hide the links to other posts.
+#disableReadOtherPosts = false
+
+# Enable sharing buttons, if you like
+#enableSharingButtons = true
+
+defaultContentLanguage = 'en'
+
+[params]
+  disableHLJS = true                         # don't use highlight.js
+  github = 'YOUR_GITHUB_ID'                  # github.com/YOUR_GITHUB_ID
+
+
+
+
+[taxonomies]
+    category = "categories"
+    tag      = "tags"
+
+
+[menu]
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "article"
+    name       = "Article"
+    url        = "/article/" 
+
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/post/"
+
+    [[menu.main]]
+    identifier = "mood"
+    name       = "Mood's Color"
+    url        =  "/mood/"
+
+
+    ########################
+[languages] 
+
+    [languages.en]
+        weight = 1   
+    [languages.lv]
+        weight = 2
+    [languages.fr]
+        weight = 3
