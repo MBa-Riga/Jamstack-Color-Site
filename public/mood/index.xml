@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moods on The Color Site</title>
+    <link>https://compassionate-rosalind-ba0065.netlify.app/mood/</link>
+    <description>Recent content in Moods on The Color Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jan 2022 16:55:44 +0100</lastBuildDate><atom:link href="https://compassionate-rosalind-ba0065.netlify.app/mood/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mood</title>
+      <link>https://compassionate-rosalind-ba0065.netlify.app/mood/mood/</link>
+      <pubDate>Thu, 06 Jan 2022 16:55:44 +0100</pubDate>
+      
+      <guid>https://compassionate-rosalind-ba0065.netlify.app/mood/mood/</guid>
+      <description>Here some colors pick up specially for you ! 💛 </description>
+    </item>
+    
+  </channel>
+</rss>
