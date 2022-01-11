@@ -55,7 +55,7 @@ enableEmoji = true
     [[menu.main]]
     identifier = "all-color"
     name       = "All the Colors"
-    url        = "/all-color/"
+    url        = "/mood/"
     weight     = "1"
 
 
