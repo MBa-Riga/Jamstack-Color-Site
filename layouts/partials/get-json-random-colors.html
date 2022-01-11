@@ -1,0 +1,7 @@
+
+{{ $path := "/data/hexacolors.json" }}
+{{ range $r := getJSON $path | shuffle | first 4 }}
+    {{index $r "name"}}
+    <hr width="50px;" color= {{index $r "hex"}} 
+            size="100">
+{{ end }}

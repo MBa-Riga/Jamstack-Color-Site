@@ -2,58 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/article/</loc>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/article/</loc>
+    <lastmod>2022-01-06T17:13:46+01:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/article/serious/art-serious-2/</loc>
+    <lastmod>2022-01-06T17:13:46+01:00</lastmod>
+  </url><url>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/</loc>
+    <lastmod>2022-01-06T17:13:46+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="lv"
-                href="http://example.org/lv/categories/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/lv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/categories/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/"
                 />
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/mood/</loc>
+    <lastmod>2022-01-06T16:55:44+01:00</lastmod>
+  </url><url>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/article/serious/art-serious-1/</loc>
+    <lastmod>2022-01-06T16:53:59+01:00</lastmod>
+  </url><url>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/post/black-and-white/</loc>
+    <lastmod>2022-01-06T16:04:28+01:00</lastmod>
+  </url><url>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/post/</loc>
+    <lastmod>2022-01-06T16:04:28+01:00</lastmod>
+  </url><url>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="lv"
-                href="http://example.org/lv/tags/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/lv/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/tags/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/categories/"
                 />
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="lv"
-                href="http://example.org/lv/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/lv/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/tags/"
                 />
   </url>
 </urlset>

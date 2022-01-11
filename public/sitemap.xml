@@ -2,17 +2,19 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://example.org/en/sitemap.xml</loc>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/en/sitemap.xml</loc>
+    
+      <lastmod>2022-01-06T17:13:46+01:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://example.org/lv/sitemap.xml</loc>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/lv/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://example.org/fr/sitemap.xml</loc>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/fr/sitemap.xml</loc>
     
   </sitemap>
   

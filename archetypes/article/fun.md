@@ -1,8 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
-tags: ["fun"]
+draft: false
+tags: ["fun", "hello"]
 ---
 
 **Like a letter : main paragraph**

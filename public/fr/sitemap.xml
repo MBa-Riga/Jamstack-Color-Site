@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/fr/categories/</loc>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="lv"
-                href="http://example.org/lv/categories/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/lv/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/categories/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/fr/categories/"
                 />
   </url><url>
-    <loc>http://example.org/fr/tags/</loc>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="lv"
-                href="http://example.org/lv/tags/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/lv/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/tags/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/fr/tags/"
                 />
   </url><url>
-    <loc>http://example.org/fr/</loc>
+    <loc>https://compassionate-rosalind-ba0065.netlify.app/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="lv"
-                href="http://example.org/lv/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/lv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://example.org/fr/"
+                href="https://compassionate-rosalind-ba0065.netlify.app/fr/"
                 />
   </url>
 </urlset>

@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+<article class="post-single">
+  <header class="post-title">
+  </header>
+  <section class="post-content">{{ .Content }}</section>
+
+  <!-- Hexa colors tab-->
+  {{ partial "get-json-colors" . }}
+
+  <!-- Post Nav -->
+  {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}<!---->
+  {{ if and (gt (len $pages) 1) (in $pages . ) }}
+  <nav class="post-nav">
+    {{ with $pages.Next . }}
+    <a class="prev" href="{{ .Permalink }}"><span>←</span><span>{{ .Name }}</span></a>
+    {{ end }} {{ with $pages.Prev . }}
+    <a class="next" href="{{ .Permalink }}"><span>{{ .Name }}</span><span>→</span></a>
+    {{ end }}
+  </nav>
+  {{ end }}
+
+</article>
+
+{{ end }}

@@ -2,9 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Color Site</title>
-    <link>http://example.org/article/</link>
+    <link>https://compassionate-rosalind-ba0065.netlify.app/article/</link>
     <description>Recent content on The Color Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/article/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jan 2022 17:13:46 +0100</lastBuildDate><atom:link href="https://compassionate-rosalind-ba0065.netlify.app/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art Serious 2</title>
+      <link>https://compassionate-rosalind-ba0065.netlify.app/article/serious/art-serious-2/</link>
+      <pubDate>Thu, 06 Jan 2022 17:13:46 +0100</pubDate>
+      
+      <guid>https://compassionate-rosalind-ba0065.netlify.app/article/serious/art-serious-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art Serious 1</title>
+      <link>https://compassionate-rosalind-ba0065.netlify.app/article/serious/art-serious-1/</link>
+      <pubDate>Thu, 06 Jan 2022 16:53:59 +0100</pubDate>
+      
+      <guid>https://compassionate-rosalind-ba0065.netlify.app/article/serious/art-serious-1/</guid>
+      <description>Let&amp;rsquo;s be serious and boring.</description>
+    </item>
+    
   </channel>
 </rss>

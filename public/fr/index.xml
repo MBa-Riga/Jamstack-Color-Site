@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Color Site</title>
-    <link>http://example.org/fr/</link>
+    <link>https://compassionate-rosalind-ba0065.netlify.app/fr/</link>
     <description>Recent content on The Color Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/fr/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://compassionate-rosalind-ba0065.netlify.app/fr/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

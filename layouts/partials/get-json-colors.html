@@ -1,0 +1,24 @@
+<br>
+<table>
+    <thead>
+      <tr>
+      <th>Color's name</th>
+      <th>Hexadecimal code</th>
+      <th>Color</th>
+      <th>Families</th>
+      </tr>
+    </thead>
+    <tbody>
+    {{ $path := "/data/hexacolors.json" }}
+    {{ range $r := getJSON $path }}
+      <tr>
+        <td> {{index $r "name"}} </td>
+        <td> {{index $r "hex"}} </td>
+        {{ $h := (index $r "hex") }}        
+        <td> <hr width="50px;" color= {{index $r "hex"}} 
+            size="40"> </td>
+        <td> {{index $r "families"}}</td>
+      </tr>
+    {{ end }}
+    </tbody>
+</table>

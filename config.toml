@@ -1,7 +1,6 @@
 baseURL = 'https://compassionate-rosalind-ba0065.netlify.app/'
 languageCode = 'en-us'
 title = 'The Color Site'
-#homeSubtitle = "where you can find all the hexa color of the Internet !"
 description = "My new homepage"
 theme = "paper"
 
@@ -19,10 +18,11 @@ theme = "paper"
 #enableSharingButtons = true
 
 defaultContentLanguage = 'en'
+enableEmoji = true
 
 [params]
   disableHLJS = true                         # don't use highlight.js
-  github = 'YOUR_GITHUB_ID'                  # github.com/YOUR_GITHUB_ID
+  github = 'MBa-Riga/Jamstack-Color-Site'                  # github.com/YOUR_GITHUB_ID
 
 
 
@@ -38,16 +38,25 @@ defaultContentLanguage = 'en'
     identifier = "article"
     name       = "Article"
     url        = "/article/" 
+    weight     = "2"
 
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
     url        = "/post/"
+    weight     = "3"
 
     [[menu.main]]
     identifier = "mood"
-    name       = "Mood's Color"
-    url        =  "/mood/"
+    name       = "Today's Colors"
+    url        = "/mood/mood"
+    weight     = "4"
+
+    [[menu.main]]
+    identifier = "all-color"
+    name       = "All the Colors"
+    url        = "/all-color/all-color"
+    weight     = "1"
 
 
     ########################
