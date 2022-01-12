@@ -58,13 +58,14 @@ enableEmoji = true
     url        = "/all-color/all-color"
     weight     = "1"
 
+    [[menu.main]]
+    identifier = "aboutme"
+    name       = "About me ! "
+    url        = "/post/About-me"
+    weight     = "6"
 
-    ########################
-[languages] 
-
-    [languages.en]
-        weight = 1   
-    [languages.lv]
-        weight = 2
-    [languages.fr]
-        weight = 3
+    [[menu.main]]
+    identifier = "study"
+    name       = "Professional experience "
+    url        = "/study"
+    weight     = "5"
