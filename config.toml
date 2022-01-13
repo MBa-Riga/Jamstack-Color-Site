@@ -4,18 +4,6 @@ title = 'The Color Site'
 description = "My new homepage"
 theme = "paper"
 
-#metadata for doc head
-#description = "My new homepage"
-#keywords = "homepage, blog, mood" #not sure
-#images = [""]
-
-#"disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # add disqus comments
-
-# Set disableReadOtherPosts to true in order to hide the links to other posts.
-#disableReadOtherPosts = false
-
-# Enable sharing buttons, if you like
-#enableSharingButtons = true
 
 defaultContentLanguage = 'en'
 enableEmoji = true
@@ -23,8 +11,6 @@ enableEmoji = true
 [params]
   disableHLJS = true                         # don't use highlight.js
   github = 'MBa-Riga/Jamstack-Color-Site'                  # github.com/YOUR_GITHUB_ID
-
-
 
 
 [taxonomies]
