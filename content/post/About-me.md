@@ -4,7 +4,7 @@ date: 2022-01-12T17:16:08+01:00
 draft: false
 ---
 
-# Hello I'm Marine !
+# Hello my name is Marine !
 ## I'm French :fr: ,
 ### it's cliche but I really love bread and cheese
 ## , and I also really enjoyed Latvia :blush: !
